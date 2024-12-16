@@ -15,6 +15,8 @@ Notes:
 - [**KDE Connect**](https://kdeconnect.kde.org): Connect your devices locally.
 - [**Mastodon**](https://joinmastodon.org): Decentralized social networking platform.
 - [**rclone**](https://rclone.org): Cloud storage management using CLI with encryption support.
+- [**Proton**](https://proton.me/): Privacy focused ecosystem of apps.
+- [**Tuta**](https://tuta.com): Privacy focused Email + more.
 
 ---
 
