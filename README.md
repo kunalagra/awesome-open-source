@@ -17,6 +17,7 @@ Notes:
 - [**rclone**](https://rclone.org): Cloud storage management using CLI with encryption support.
 - [**Proton**](https://proton.me/): Privacy focused ecosystem of apps.
 - [**Tuta**](https://tuta.com): Privacy focused Email + more.
+- [**Mastodon**](https://joinmastodon.org/): Decentralized social media.
 
 ---
 
