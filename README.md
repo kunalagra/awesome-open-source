@@ -20,8 +20,9 @@ Notes:
 
 ---
 
-## 🖥️ Windows 10 (LTSC)
+## 🖥️ Windows 11 (LTSC)
 
+- [**AutoHotKey**](https://github.com/AutoHotkey/AutoHotkey): Macro-creation and automation software.
 - [**CopyQ**](https://hluk.github.io/CopyQ): Advanced clipboard manager.
 - [**ImageGlass**](https://github.com/d2phap/ImageGlass): Lightweight image viewer.
 - [**Media Player Classic - HC**](https://github.com/clsid2/mpc-hc): Comprehensive media player. Install with KLite codecs.
@@ -35,13 +36,14 @@ Notes:
 
 - [**Aegis**](https://getaegis.app): Two-factor authentication app.
 - [**Barcode Scanner**](https://gitlab.com/Atharok/BarcodeScanner): Fast and beautiful QR and barcode scanner.
+- [**Cashew**](https://github.com/jameskokoska/Cashew): Finance and Budgeting App.
 - [**Cromite**](https://github.com/uazo/cromite): Privacy-enhanced Chromium browser. Fork of Bromite.
-- [**InnerTune**](https://github.com/z-huang/InnerTune): YouTube Music client.
 - [**LibreTube**](https://github.com/libre-tube/LibreTube): YouTube client focused on privacy.
 - [**LinkSheet**](https://github.com/LinkSheet/LinkSheet): Restores the app chooser for tapped links. 💖
+- [**Metrolist**](https://github.com/mostafaalagamy/Metrolist): YouTube Music client.
 - [**Pano Scrobbler**](https://github.com/kawaiiDango/pano-scrobbler): Music scrobbling app for Android. 💖
 - [**Pocket Casts**](https://github.com/Automattic/pocket-casts-android): Podcast app.
-- [**Signal**](https://signal.org): Encrypted messaging app.
+- [**Signal**](https://signal.org): Encrypted messaging app. 💖
 
 ---
 
