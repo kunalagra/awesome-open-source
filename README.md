@@ -64,7 +64,7 @@ Notes:
 ## 🍎 MacOS
 
 - [**Maccy**](https://github.com/p0deje/Maccy): Lightweight clipboard manager.
-- [**Maos**](https://github.com/zenangst/maos): Open-source MacOS tools.
+- [**Mos**](https://github.com/Caldis/Mos): Sane scrolling for External Mice!
 - [**Orion Browser**](https://browser.kagi.com): Webkit based browser with Chrome extensions support.
 
 ---
